@@ -5,7 +5,7 @@ This project is intended to make an unofficial Chinese translation to the visual
 修改日志：
 - 2025/09/26 项目1.0版发布。仅汉化文本。
 
-使用方法：安装好原版游戏后将`exec.idx`、`exec.lb5`复制到游戏目录下替换原文件（建议预先备份），将`test03-cn.exe`复制到游戏目录下`exe`文件夹中双击启动即可。
+使用方法：下载`chinese-patch-1.0.zip`并解压，将`exec.idx`、`exec.lb5`复制到游戏目录下替换原文件（建议预先备份），将`test03-cn.exe`复制到游戏目录下`exe`文件夹中双击启动即可。
 
 汉化说明：
 
